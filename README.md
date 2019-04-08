@@ -1,4 +1,4 @@
-#Mixin Exercise 1 
+# Mixin Exercise 1 
 
 Convert the CSS to SASS!
 
